@@ -6,6 +6,7 @@ This group chatting GUI  application using java. Developed using the concepts of
 ## Installation
 
 To copy this project write following command to your Git Terminal or you can simply download the ZIP file and extract it
+Please give me star ⭐ If you Like my efforts.
 
 ```bash
   git clone https://github.com/Rohit-Nandagawali/group_Chat_app_using_java_swing.git
@@ -23,16 +24,16 @@ To copy this project write following command to your Git Terminal or you can sim
 
 ## Screenshots
 
-This is how your multiple users look ↓
+- This is how your multiple users look ↓
 ![App Screenshot](group%20chatting%20app/screenshots/ss0.png)
-This is how single user look ↓
+- This is how single user look ↓
 ![App Screenshot](group%20chatting%20app/screenshots/ss1.png)
-This is how you can use HTML tags in chat ↓
+- This is how you can use HTML tags in chat ↓
 ![App Screenshot](group%20chatting%20app/screenshots/ss2.png)
-This is how you can use HTML tags in chat ↓
+- This is how you can use HTML tags in chat ↓
 ![App Screenshot](group%20chatting%20app/screenshots/ss3.png)
-This is how output of HTML tags will look ↓
-![App Screenshot](group%20chatting%20app/screenshots/ss4.png)
+- This is how output of HTML tags will look ↓
+![App Screenshot](group%20chatting%20app/screenshots/ss5.png)
 
 
 
@@ -40,4 +41,6 @@ This is how output of HTML tags will look ↓
 ## Authors
 
 - [@Rohit Nandagawali](https://www.github.com/Rohit-Nandagawali/)
+
+## Made with ❤
 
