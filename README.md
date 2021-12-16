@@ -1,5 +1,5 @@
 
-# Group chatting Appliction Using Java
+# Group chatting Application Using Java
 
 This group chatting GUI  application using java. Developed using the concepts of socket programming or networking in java. To create its GUI I have used Java Swing API.
 
@@ -21,20 +21,18 @@ To copy this project write following command to your Git Terminal or you can sim
 - Scrollable vertical layout
 - code written written with fully explainable comments
 
-
 ## Screenshots
 
 This is how your multiple users look ↓
-![App Screenshot](screenshots/ss0)
+![App Screenshot](group%20chatting%20app/screenshots/ss0)
 This is how single user look ↓
-![App Screenshot](screenshots/ss1)
+![App Screenshot](group%20chatting%20app/screenshots/ss1)
 This is how you can use HTML tags in chat ↓
-![App Screenshot](screenshots/ss2)
+![App Screenshot](group%20chatting%20app/screenshots/ss2)
 This is how you can use HTML tags in chat ↓
-![App Screenshot](screenshots/ss3)
+![App Screenshot](group%20chatting%20app/screenshots/ss3)
 This is how output of HTML tags will look ↓
-![App Screenshot](screenshots/ss4)
-
+![App Screenshot](group%20chatting%20app/screenshots/ss4)
 
 
 
